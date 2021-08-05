@@ -1,3 +1,18 @@
 # region_city_destrict
-list of areas of their cities and city districts
+List of areas of their cities and city districts
+
 Cписок областей -> городов -> районов
+
+Format/Формат:
+{
+  "region": "",
+  "city_list": [
+    {
+      "city": "",
+      "districts": [
+        "",
+        ""
+      ]
+    }
+  ]
+}
